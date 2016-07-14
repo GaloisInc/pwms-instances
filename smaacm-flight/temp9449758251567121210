@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c camera_target_input_attrServer
+c [(["camera_target_input_attr"],0),(["camera_target_input_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

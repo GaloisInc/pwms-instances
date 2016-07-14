@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c control_law_attrServer_2
+c [(["control_law_attr_2"],2000),(["control_law_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

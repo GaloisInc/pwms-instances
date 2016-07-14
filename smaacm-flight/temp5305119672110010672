@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c sensor_enable
+c [(["__TOWER_reg_usage"],0)]
+p wcnf 1 1 2147483637
+2147483637 1 0

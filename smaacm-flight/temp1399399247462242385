@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c baro_output_attrServer
+c [(["baro_output_attr"],11111111),(["baro_output_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

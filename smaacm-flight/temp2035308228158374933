@@ -1,0 +1,8 @@
+c comments Partial Max-SAT
+c fragment_reassembly
+c [(["reassembly_next_idx_0x200","reassembly_buf_0x200"],100000)]
+p wcnf 4 4 2147483637
+2147483637 3 4 0
+2147483637 1 2 0
+2147483637 -3 -4 0
+2147483637 -1 -2 0

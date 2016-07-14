@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c mag_output_calibration_attrServer_2
+c [(["mag_output_calibration_attr_2"],11111111),(["mag_output_calibration_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c motorMixer
+c [(["control_law_attr_4"],2000),(["control_law_attr_4"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

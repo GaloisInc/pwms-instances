@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c packed_status_attrServer_2
+c [(["packed_status_attr_2"],11111111),(["packed_status_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

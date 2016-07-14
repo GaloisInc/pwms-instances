@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c user_input_request_attrServer
+c [(["user_input_request_attr"],100000),(["user_input_request_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

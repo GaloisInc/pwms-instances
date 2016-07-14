@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c battery_voltage_attrServer
+c [(["battery_voltage_attr"],100),(["battery_voltage_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

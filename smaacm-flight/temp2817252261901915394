@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c control_output_attrServer
+c [(["control_output_attr"],20000),(["control_output_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

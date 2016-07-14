@@ -1,0 +1,8 @@
+c comments Partial Max-SAT
+c commsecDecodeState
+c [(["ctx_dl_2_global_gec_sym_key_dec","validkey_2"],0),(["validkey_2","ctx_dl_2_global_gec_sym_key_dec"],20000)]
+p wcnf 4 4 2147483637
+2147483637 1 2 0
+2147483637 3 4 0
+2147483637 -1 -2 0
+2147483637 -3 -4 0

@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c attitude_roll_stab_attrServer_2
+c [(["attitude_roll_stab_attr_2"],100000),(["attitude_roll_stab_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

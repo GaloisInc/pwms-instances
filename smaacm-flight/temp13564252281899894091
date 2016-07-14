@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c control_law_2
+c [(["arming_mode_"],2000),(["arming_mode_"],2000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

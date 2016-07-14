@@ -1,0 +1,8 @@
+c comments Partial Max-SAT
+c rgbled
+c [(["error","expect_response"],100000),(["error","expect_response"],11111111),(["expect_response","error"],11111111)]
+p wcnf 4 4 2147483637
+2147483637 1 2 0
+2147483637 3 4 0
+2147483637 -1 -2 0
+2147483637 -3 -4 0

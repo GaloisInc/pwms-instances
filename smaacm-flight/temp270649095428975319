@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c can1PeripheralDriver
+c [(["__TOWER_reg_usage"],0),(["__TOWER_reg_usage"],284090),(["__TOWER_reg_usage"],100000),(["__TOWER_reg_usage"],0),(["__TOWER_reg_usage"],0),(["__TOWER_reg_usage"],0),(["__TOWER_reg_usage"],0),(["__TOWER_reg_usage"],284090),(["__TOWER_reg_usage"],284090),(["__TOWER_reg_usage"],284090)]
+p wcnf 1 1 2147483637
+2147483637 1 0

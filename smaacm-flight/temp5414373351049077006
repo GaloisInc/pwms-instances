@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c altitude_rate_pid_attrServer_2
+c [(["altitude_rate_pid_attr_2"],100000),(["altitude_rate_pid_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c control_modes_law
+c [(["telem_control_modes_request"],100000),(["telem_control_modes_request"],2000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

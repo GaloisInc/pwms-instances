@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c att_control_debug_attrServer_2
+c [(["att_control_debug_attr_2"],0),(["att_control_debug_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

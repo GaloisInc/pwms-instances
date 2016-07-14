@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c px4io_state_attrServer
+c [(["px4io_state_attr"],100000),(["px4io_state_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

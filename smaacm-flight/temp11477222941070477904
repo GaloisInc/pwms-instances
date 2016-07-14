@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c gyro_output_attrServer_2
+c [(["gyro_output_attr_2"],11111111),(["gyro_output_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

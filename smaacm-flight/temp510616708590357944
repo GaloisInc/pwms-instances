@@ -1,0 +1,8 @@
+c comments Partial Max-SAT
+c arming_law
+c [(["arming_inputs"],100000),(["arming_inputs"],100000),(["arming_inputs"],11111111),(["arming_inputs"],11111111),(["arming_inputs"],11111111),(["arming_inputs"],11111111),(["arming_inputs","arming_law_2"],2000)]
+p wcnf 4 4 2147483637
+2147483637 1 2 0
+2147483637 3 4 0
+2147483637 -1 -2 0
+2147483637 -3 -4 0

@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c pack_status
+c [(["last_packed_status"],11111111),(["last_packed_status"],3030),(["last_packed_status"],11111111),(["last_packed_status"],11111111),(["last_packed_status"],11111111),(["last_packed_status"],2000),(["last_packed_status"],2000),(["last_packed_status"],100)]
+p wcnf 1 1 2147483637
+2147483637 1 0

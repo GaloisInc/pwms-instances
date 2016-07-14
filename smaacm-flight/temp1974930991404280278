@@ -1,0 +1,8 @@
+c comments Partial Max-SAT
+c accel_bias_trigger
+c [(["trigger_event"],11111111),(["last_safety_state","trigger_event"],100000)]
+p wcnf 4 4 2147483637
+2147483637 3 4 0
+2147483637 1 2 0
+2147483637 -3 -4 0
+2147483637 -1 -2 0

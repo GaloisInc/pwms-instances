@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c alt_control_debug_attrServer
+c [(["alt_control_debug_attr"],20000),(["alt_control_debug_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

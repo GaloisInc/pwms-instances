@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c arming_request_attrServer_2
+c [(["arming_request_attr_2"],100000),(["arming_request_attr_2"],100000)]
+p wcnf 1 1 2147483637
+2147483637 1 0

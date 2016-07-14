@@ -1,0 +1,5 @@
+c comments Partial Max-SAT
+c throttle_ui_attrServer
+c [(["throttle_ui_attr"],100000),(["throttle_ui_attr"],20000)]
+p wcnf 1 1 2147483637
+2147483637 1 0
